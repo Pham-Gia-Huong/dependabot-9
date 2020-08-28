@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lodash": "4.17.15",
-    "uglifyjs-webpack-plugin": "^2.2.0"
+    "lodash": "4.17.15"
   }
 }
