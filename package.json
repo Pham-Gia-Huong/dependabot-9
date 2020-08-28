@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "lodash": "4.17.15"
+  },
+  "dependencies": {
+    "elliptic": "^6.5.3"
   }
 }
