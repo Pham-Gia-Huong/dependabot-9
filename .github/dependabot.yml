@@ -8,7 +8,8 @@ updates:
     # Look for `package.json` and `lock` files in the `root` directory
     directory: "/"
     # ignore specific dependence with version
+    ignore:
+      - dependency-name: "elliptic"
     # Check the npm registry for updates every day (weekdays)
-    target-branch: "demo"
     schedule:
       interval: "daily"
