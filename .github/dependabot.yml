@@ -11,5 +11,8 @@ updates:
     allow:
       # Allow updates for Lodash
       - dependency-name: "lodash"
+    ignore:
+      - dependency-name: "elliptic"
+        versions: ["6.x", "6.5.x"]
     schedule:
       interval: "daily"
