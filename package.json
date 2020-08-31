@@ -9,6 +9,10 @@
 	"author": "",
 	"license": "ISC",
 	"devDependencies": {
+		"elliptic": "^6.5.3",
 		"serialize-javascript": "^2.1.2"
+	},
+	"dependencies": {
+		"@babel/runtime": "^7.6.2"
 	}
 }
