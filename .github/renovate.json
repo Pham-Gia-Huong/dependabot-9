@@ -5,5 +5,8 @@
       "updateTypes": ["major","minor"],
       "labels": ["UPDATE-MAJOR"]
     }
-  ]
+  ],
+  "vulnerabilityAlerts": {
+    "enabled": true
+  }
 }
