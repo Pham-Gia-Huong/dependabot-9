@@ -11,7 +11,7 @@
   "devDependencies": {
     "@babel/plugin-transform-runtime": "7.6.2",
     "elliptic": "6.5.2",
-    "serialize-javascript": "2.1.2",
+    "terser-webpack-plugin": "^2.2.3",
     "webpack": "4.43.0"
   },
   "dependencies": {
