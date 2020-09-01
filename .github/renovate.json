@@ -7,6 +7,6 @@
     }
   ],
   "vulnerabilityAlerts": {
-    "enabled": true
+    "enabled": true 
   }
 }
