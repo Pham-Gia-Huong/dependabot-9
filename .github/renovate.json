@@ -1,3 +1,9 @@
 {
-  "enabledManagers": ["dockerfile", "npm"]
+  "enabledManagers": ["dockerfile", "npm"],
+  "packageRules": [
+    {
+      "updateTypes": ["major","minor"],
+      "labels": ["UPDATE-MAJOR"]
+    }
+  ]
 }
