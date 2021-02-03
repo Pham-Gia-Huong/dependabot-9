@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "elliptic": "6.5.2",
+    "elliptic": "6.5.4",
     "terser-webpack-plugin": "2.2.3",
     "webpack": "4.43.0"
   },
